@@ -13,8 +13,12 @@ body {
     color: white;
 }
 
-.del-head {
+.date-head{
     color: white;
+}
+
+.del-head {
+    color: rgb(255, 0, 0);
 }
 
 hr {
